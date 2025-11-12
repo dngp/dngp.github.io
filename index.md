@@ -1,1 +1,1 @@
-# Adam Stück's blog
+# Markuss G. Ķēniņš's webpage
