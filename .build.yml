@@ -1,0 +1,29 @@
+image: alpine/latest
+oauth: pages.sr.ht/PAGES:RW
+packages:
+  - ruby
+  - go
+  - hut
+  - rsync
+secrets:
+  - 4c5cebdb-c744-4dfb-a69a-30b9bdfe048c
+sources:
+  - https://git.sr.ht/~adamski/adast.dk
+environment:
+  deploy: srht@adast.dk
+  mirror: mirror.adast.dk
+  site: adamski.srht.site
+tasks:
+- install-gems: |
+    gem install 'kramdown:2.4.0' 'rss:0.3.0'
+- build: |
+    cd adast.dk
+    make build
+- package: |
+    cd adast.dk/build
+    tar -cvz . > ../../site.tar.gz
+- upload: |
+    sshopts="ssh -o StrictHostKeyChecking=no"
+    rsync --rsh="$sshopts" -ruz --delete adast.dk/build/ $deploy:/var/www/adast.dk
+    hut pages publish -d $site site.tar.gz
+    hut pages publish -d $mirror site.tar.gz
