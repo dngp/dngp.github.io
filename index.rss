@@ -8,7 +8,7 @@
     <title>MGKenins RSS Feed</title>
     <link>https://mgk.ac</link>
     <description>The official RSS Feed for https://mgk.ac</description>
-    <pubDate>Wed, 12 Nov 2025 22:25:28 +0100</pubDate>
+    <pubDate>Wed, 12 Nov 2025 22:53:12 +0100</pubDate>
     <item>
       <title>Status update, February 2023</title>
       <link>https://mgk.ac/posts/2023-02/</link>
@@ -55,6 +55,6 @@ prioritising hosting the services that I use regularly.&lt;/p&gt;
       <pubDate>Sat, 04 Mar 2023 12:00:00 +0100</pubDate>
       <dc:date>2023-03-04T12:00:00+01:00</dc:date>
     </item>
-    <dc:date>2025-11-12T22:25:28+01:00</dc:date>
+    <dc:date>2025-11-12T22:53:12+01:00</dc:date>
   </channel>
 </rss>
