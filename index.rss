@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>MGKenins RSS Feed</title>
+    <link>https://www.mgk.ac</link>
+    <description>The official RSS Feed for https://www.mgk.ac</description>
+    <pubDate>Thu, 13 Nov 2025 13:01:55 +0100</pubDate>
+    <item>
+      <title>Status update, February 2023</title>
+      <link>https://www.mgk.ac/posts/2023-02/</link>
+      <description>&lt;h1 id=&quot;status-update-february-2023&quot;&gt;Status update, February 2023&lt;/h1&gt;
+
+&lt;p id=&quot;date&quot;&gt;2023-03-04&lt;/p&gt;
+
+&lt;p&gt;Hi, welcome to my website. 
+This is probably your first time seeing it, but it just went through a
+major makeover. I’ve archived &lt;a href=&quot;https://web.archive.org/web/20221223055937/https://adast.xyz/&quot;&gt;the old
+design&lt;/a&gt; if
+you want to check it out.
+The new design is &lt;em&gt;blazingly fast&lt;/em&gt;, light as a feather, and anyone can navigate
+it.
+This redesign was heavily inspired by &lt;a href=&quot;https://btxx.org&quot;&gt;btxx.org&lt;/a&gt; and
+&lt;a href=&quot;https://drewdevault.com&quot;&gt;drewdevault.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find my contact details and important links on the homepage.
+There are links to more information about myself and this website, projects I’m
+working on, and my RSS feed at the top.
+I’ve included my PGP key if you wish to send me mail privately.&lt;/p&gt;
+
+&lt;p&gt;The CompSci department at my uni hosts an annual LAN party with tournaments
+in the usual titles (csgo, lol, trackmania, etc). It would be amazing to get &lt;a href=&quot;https://arena.adast.dk&quot;&gt;arena&lt;/a&gt; to a playable,
+fun state, and have a LAN tournament to really put it to the test.
+I want to start working on my game again, and I want to it to be playable in
+time for the LAN party.
+I have about 5 weeks to make it happen.&lt;/p&gt;
+
+&lt;p&gt;I have a few technical blog posts planned, but I’ll also just be posting
+about anything I that interests me.
+I think I’ll start doing monthly status updates (like this post), much like
+the &lt;a href=&quot;https://sourcehut.org/consultancy/#our-engineers&quot;&gt;engineers at
+sourcehut.org&lt;/a&gt;.
+I’d also like to start posting (weekly) development logs for arena.&lt;/p&gt;
+
+&lt;p&gt;Finally, I have a lot more services I need to start hosting before I really
+call this &lt;em&gt;my platform&lt;/em&gt;. You can see the list of publicly available
+services by clicking the link at the top of the page. For now, I’m
+prioritising hosting the services that I use regularly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Book club:&lt;/strong&gt; I’m reading A Voyage for Madmen by Peter Nichols.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 04 Mar 2023 12:00:00 +0100</pubDate>
+      <dc:date>2023-03-04T12:00:00+01:00</dc:date>
+    </item>
+    <dc:date>2025-11-13T13:01:55+01:00</dc:date>
+  </channel>
+</rss>
