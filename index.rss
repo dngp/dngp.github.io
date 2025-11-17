@@ -8,7 +8,7 @@
     <title>MGKenins RSS Feed</title>
     <link>https://www.mgk.ac</link>
     <description>The official RSS Feed for https://www.mgk.ac</description>
-    <pubDate>Mon, 17 Nov 2025 01:48:40 +0100</pubDate>
+    <pubDate>Mon, 17 Nov 2025 02:00:40 +0100</pubDate>
     <item>
       <title>First master course</title>
       <link>https://www.mgk.ac/posts/2025-11/</link>
@@ -26,6 +26,6 @@ level. Mathematical maturity is truly wonderful :)&lt;/p&gt;
       <pubDate>Mon, 10 Nov 2025 12:00:00 +0100</pubDate>
       <dc:date>2025-11-10T12:00:00+01:00</dc:date>
     </item>
-    <dc:date>2025-11-17T01:48:40+01:00</dc:date>
+    <dc:date>2025-11-17T02:00:40+01:00</dc:date>
   </channel>
 </rss>
